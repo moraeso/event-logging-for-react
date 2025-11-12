@@ -31,7 +31,7 @@ yarn generate:dataEvent
 
 > [Google Spread Sheets 링크](https://docs.google.com/spreadsheets/d/1H8kjFsnpSP6nrnWzUkvszCI7DsanTamgoGg0_dm4BHg)
 
-<img width="1638" alt="스크린샷 2023-05-18 오전 3 00 10" src="https://github.com/moresoo/event-logging-for-react/assets/45632773/cc980213-b699-482d-8088-216bd3ef94ae">
+<img width="1638" alt="스크린샷 2023-05-18 오전 3 00 10" src="https://github.com/moraeso/event-logging-for-react/assets/45632773/cc980213-b699-482d-8088-216bd3ef94ae">
 
 ### Output
 
@@ -170,7 +170,7 @@ export type EventProperty = {
 </ClickEventLogging>
 ```
 
-<img width="696" alt="스크린샷 2023-05-18 오전 2 56 49" src="https://github.com/moresoo/event-logging-for-react/assets/45632773/b0084b40-63b8-4b75-a18d-dc618a11fa18">
+<img width="696" alt="스크린샷 2023-05-18 오전 2 56 49" src="https://github.com/moraeso/event-logging-for-react/assets/45632773/b0084b40-63b8-4b75-a18d-dc618a11fa18">
 
 ### (2) 뷰 이벤트 로깅 컴포넌트
 
